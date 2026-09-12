@@ -1,0 +1,12 @@
+venv/
+data/
+models/
+outputs/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.zip
+.vscode/
+.DS_Store
+Thumbs.dbS
